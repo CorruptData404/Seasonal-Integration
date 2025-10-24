@@ -2,10 +2,6 @@
   "replace": false,
   "values":[
     {
-      "id": "atmospheric:snowy_bamboo",
-      "required": false
-    },
-    {
       "id": "snowrealmagic:snowy_plant",
       "required": false
     },
@@ -18,4 +14,5 @@
       "required": false
     }
   ]
+
 }
