@@ -10,10 +10,6 @@
       "required": false
     },
     {
-      "id": "clifftree:diorite_shore",
-      "required": false
-    },
-    {
       "id": "clifftree:gravelly_beach",
       "required": false
     },
@@ -34,4 +30,5 @@
       "required": false
     }
   ]
+
 }
