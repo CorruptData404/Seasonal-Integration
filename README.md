@@ -3,8 +3,11 @@ This datapack is designed to make various mods and/or datapacks work better with
 It does this by adding entries to serene season's tags these include:
 
 Adding relevant biomes to the "tropical biomes" tag
+
 Adding relevant biomes to the "blacklisted biomes" tag.
+
 Adding relevant food, seeds and/or crops to the various seasonal fertility tags depending on what the crop is and during which seasons I feel it makes sense for them to be able to grow in.
+
 This datapack also adds biomes from some mods to some Vanilla Minecraft and internal Neoforge tags to ensure they work better with ambience mods such as Dynamic Surroundings as well as mods that add biome variants of mobs such as Variants and Ventures.
 
 And more to come in the future or upon request!
