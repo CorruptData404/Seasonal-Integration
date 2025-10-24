@@ -14,7 +14,7 @@ Want a mod or datapack integrated that isn't added currently? Feel free to reque
 
 NOTE: Requested mod or datapack must be on Neoforge and be on Minecraft Version 1.21.1 or above.
 
-Please note that I primarily designed this datapack to accompany an upcoming modpack of mine which is why I have chosen these mods in particular so some changes in this datapack may not make sense outside of the modpack. 
+Please note that I primarily designed this datapack to accompany a modpack of mine which is why I have chosen these mods in particular so some changes in this datapack may not make sense outside of the modpack but I have tried to avoid this where possible. 
 
 However no mod is required (aside from Serene Seasons itself) so you can use as many or as little of the mods or datapacks with integration as you would like!
 
