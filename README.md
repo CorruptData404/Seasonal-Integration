@@ -1,0 +1,36 @@
+This datapack is designed to make various mods and/or datapacks work better with Serene Seasons.
+
+It does this by adding entries to serene season's tags these include:
+
+Adding relevant biomes to the "tropical biomes" tag
+Adding relevant biomes to the "blacklisted biomes" tag.
+Adding relevant food, seeds and/or crops to the various seasonal fertility tags depending on what the crop is and during which seasons I feel it makes sense for them to be able to grow in.
+This datapack also adds biomes from some mods to some Vanilla Minecraft and internal Neoforge tags to ensure they work better with ambience mods such as Dynamic Surroundings as well as mods that add biome variants of mobs such as Variants and Ventures.
+
+The mods/datapacks with integration currently added are:
+
+Atmospheric - By TeamAbnormals
+Autumnity - By TeamAbnormals
+Upgrade Aquatic - By TeamAbnormals
+Neapolitan - By TeamAbnormals
+Berry Good - By TeamAbnormals
+Vanilla Backport - By BlackGear
+Ecologics - By SameDifferent
+River Redux - By Jasmine
+Cliff Under A Tree - By Konci
+Variants and Ventures - By Faboslav
+Serene Seasons Plus - By Gaboouu
+Environmental - By TeamAbnormals
+Yung's Cave Biomes - By YUNGNICKYOUNG
+Snow! Real Magic! - By Snownee
+And more to come in the future or upon request!
+
+NOTE: Requested mod or datapack must be on Neoforge and be on Minecraft Version 1.21.1 or above.
+
+Please note that I primarily designed this datapack to accompany an upcoming modpack of mine which is why I have chosen these mods in particular so some changes in this datapack may not make sense outside of the modpack. 
+
+However no mod is required (aside from Serene Seasons itself) so you can use as many or as little of the mods or datapacks in the above list as you would like!
+
+Thank you for reading! Now get out there and enjoy the seasons!
+
+ 
