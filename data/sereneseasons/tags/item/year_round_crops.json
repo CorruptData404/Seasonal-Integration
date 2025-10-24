@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "autumnity:maple_sapling",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:river_sapling",
+      "required": false
+    },
+    {
+      "id": "berry_good:glow_berry_pips",
+      "required": false
+    }
+  ]
+}

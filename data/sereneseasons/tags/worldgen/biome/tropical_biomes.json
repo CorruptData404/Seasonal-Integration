@@ -1,0 +1,65 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "riverredux:sandy_river",
+      "required": false
+    },
+    {
+      "id": "riverredux:tropical_river",
+      "required": false
+    },
+    {
+      "id": "#atmospheric:is_dunes",
+      "required": false
+    },
+    {
+      "id": "#atmospheric:is_rainforest",
+      "required": false
+    },
+    {
+      "id": "atmospheric:scrubland",
+      "required": false
+    },
+    {
+      "id": "atmospheric:spiny_thicket",
+      "required": false
+    },
+    {
+      "id": "#clifftree:is_desert",
+      "required": false
+    },
+    {
+      "id": "#clifftree:dry_badlands",
+      "required": false
+    },
+    {
+      "id": "clifftree:granite_shore",
+      "required": false
+    },
+    {
+      "id": "clifftree:tropical_river",
+      "required": false
+    },
+    {
+      "id": "clifftree:warm_river",
+      "required": false
+    },
+    {
+      "id": "clifftree:warm_caves",
+      "required": false
+    },
+    {
+      "id": "clifftree:inferno",
+      "required": false
+    },
+    {
+      "id": "clifftree:desert_cliff",
+      "required": false
+    },
+    {
+      "id": "yungscavebiomes:lost_caves",
+      "required": false
+    }
+  ]
+}

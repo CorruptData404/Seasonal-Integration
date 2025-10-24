@@ -1,0 +1,89 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "atmospheric:yucca_sapling",
+      "required": false
+    },
+    {
+      "id": "atmospheric:rosewood_sapling",
+      "required": false
+    },
+    {
+      "id": "atmospheric:morado_sapling",
+      "required": false
+    },
+    {
+      "id": "atmospheric:laurel_sapling",
+      "required": false
+    },
+    {
+      "id": "atmospheric:dry_laurel_sapling",
+      "required": false
+    },
+    {
+      "id": "atmospheric:green_aspen_sapling",
+      "required": false
+    },
+    {
+      "id": "atmospheric:barrel_cactus",
+      "required": false
+    },
+    {
+      "id": "atmospheric:aloe_vera",
+      "required": false
+    },
+    {
+      "id": "atmospheric:passion_vine",
+      "required": false
+    },
+    {
+      "id": "atmospheric:yucca_branch",
+      "required": false
+    },
+    {
+      "id": "atmospheric:dragon_roots",
+      "required": false
+    },
+    {
+      "id": "autumnity:yellow_maple_sapling",
+      "required": false
+    },
+    {
+      "id": "ecologics:walnut_sapling",
+      "required": false
+    },
+    {
+      "id": "ecologics:coconut_seedling",
+      "required": false
+    },
+    {
+      "id": "ecologics:prickly_pear",
+      "required": false
+    },
+    {
+      "id": "neapolitan:banana_frond",
+      "required": false
+    },
+    {
+      "id": "neapolitan:vanilla_vine",
+      "required": false
+    },
+    {
+      "id": "neapolitan:strawberry_bush",
+      "required": false
+    },
+    {
+      "id": "neapolitan:adzuki_soil",
+      "required": false
+    },
+    {
+      "id": "yungscavebiomes:prickly_peach_cactus",
+      "required": false
+    },
+    {
+      "id": "yungscavebiomes:prickly_vines",
+      "required": false
+    }
+  ]
+}

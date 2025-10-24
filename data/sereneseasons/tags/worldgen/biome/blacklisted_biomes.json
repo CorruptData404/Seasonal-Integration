@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#clifftree:all_caves",
+      "required": false
+    },
+    {
+      "id": "#yungscavebiomes:cave_biomes",
+      "required": false
+    }
+  ]
+}

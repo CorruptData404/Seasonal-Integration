@@ -1,0 +1,81 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "autumnity:yellow_maple_sapling",
+      "required": false
+    },
+    {
+      "id": "autumnity:orange_maple_sapling",
+      "required": false
+    },
+    {
+      "id": "autumnity:red_maple_sapling",
+      "required": false
+    },
+    {
+      "id": "autumnity:foul_berry_pips",
+      "required": false
+    },
+    {
+      "id": "atmospheric:kousa_sapling",
+      "required": false
+    },
+    {
+      "id": "atmospheric:laurel_sapling",
+      "required": false
+    },
+    {
+      "id": "atmospheric:dry_laurel_sapling",
+      "required": false
+    },
+    {
+      "id": "atmospheric:aspen_sapling",
+      "required": false
+    },
+    {
+      "id": "atmospheric:currant_seedling",
+      "required": false
+    },
+    {
+      "id": "atmospheric:green_aspen_sapling",
+      "required": false
+    },
+    {
+      "id": "vanillabackport:pale_oak_sapling",
+      "required": false
+    },
+    {
+      "id": "ecologics:walnut_sapling",
+      "required": false
+    },
+    {
+      "id": "ecologics:coconut_seedling",
+      "required": false
+    },
+    {
+      "id": "neapolitan:adzuki_beans",
+      "required": false
+    },
+    {
+      "id": "neapolitan:strawberry_pips",
+      "required": false
+    },
+    {
+      "id": "neapolitan:mint_sprout",
+      "required": false
+    },
+    {
+      "id": "environmental:pine_sapling",
+      "required": false
+    },
+    {
+      "id": "environmental:willow_sapling",
+      "required": false
+    },
+    {
+      "id": "environmental:cattail",
+      "required": false
+    }
+  ]
+}

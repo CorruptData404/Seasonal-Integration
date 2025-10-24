@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "ecologics:thin_ice",
+      "required": false
+    }
+  ]
+}

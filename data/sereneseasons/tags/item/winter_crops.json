@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "autumnity:red_maple_sapling",
+      "required": false
+    },
+    {
+      "id": "autumnity:foul_berry_pips",
+      "required": false
+    },
+    {
+      "id": "atmospheric:kousa_sapling",
+      "required": false
+    },
+    {
+      "id": "atmospheric:currant_seedling",
+      "required": false
+    },
+    {
+      "id": "vanillabackport:pale_oak_sapling",
+      "required": false
+    },
+    {
+      "id": "berry_good:sweet_berry_pips",
+      "required": false
+    },
+    {
+      "id": "neapolitan:mint_sprout",
+      "required": false
+    },
+    {
+      "id": "environmental:pine_sapling",
+      "required": false
+    }
+  ]
+}

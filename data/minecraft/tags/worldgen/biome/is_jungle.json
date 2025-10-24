@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#atmospheric:is_rainforest",
+      "required": false
+    }
+  ]
+}

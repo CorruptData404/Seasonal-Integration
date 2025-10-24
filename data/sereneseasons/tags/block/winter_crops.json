@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "autumnity:red_maple_sapling",
+      "required": false
+    },
+    {
+      "id": "autumnity:foul_berry_bush",
+      "required": false
+    },
+    {
+      "id": "atmospheric:kousa_sapling",
+      "required": false
+    },
+    {
+      "id": "atmospheric:currant_seedling",
+      "required": false
+    },
+    {
+      "id": "atmospheric:snowy_bamboo_sapling",
+      "required": false
+    },
+    {
+      "id": "atmospheric:snowy_bamboo",
+      "required": false
+    },
+    {
+      "id": "vanillabackport:pale_oak_sapling",
+      "required": false
+    },
+    {
+      "id": "neapolitan:mint",
+      "required": false
+    },
+    {
+      "id": "environmental:pine_sapling",
+      "required": false
+    }
+  ]
+}

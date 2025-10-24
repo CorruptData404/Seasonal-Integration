@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+	"minecraft:oak_sapling",
+	"minecraft:red_mushroom",
+	"minecraft:brown_mushroom",
+	"minecraft:nether_wart",
+	"minecraft:crimson_fungus",
+	"minecraft:warped_fungus",
+	"minecraft:cave_vines",
+	"minecraft:cave_vines_plant",
+    {
+      "id": "autumnity:maple_sapling",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:river_sapling",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values":[
+    {
+      "id": "atmospheric:snowy_bamboo",
+      "required": false
+    },
+    {
+      "id": "snowrealmagic:snowy_plant",
+      "required": false
+    },
+    {
+      "id": "snowrealmagic:snowy_double_plant_lower",
+      "required": false
+    },
+    {
+      "id": "snowrealmagic:snowy_double_plant_upper",
+      "required": false
+    }
+  ]
+}
