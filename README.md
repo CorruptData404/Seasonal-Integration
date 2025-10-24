@@ -10,13 +10,13 @@ Adding relevant food, seeds and/or crops to the various seasonal fertility tags 
 
 This datapack also adds biomes from some mods to some Vanilla Minecraft and internal Neoforge tags to ensure they work better with ambience mods such as Dynamic Surroundings as well as mods that add biome variants of mobs such as Variants and Ventures.
 
-And more to come in the future or upon request!
+Want a mod or datapack that isn't added currently? Feel free to request one through the issues section!
 
 NOTE: Requested mod or datapack must be on Neoforge and be on Minecraft Version 1.21.1 or above.
 
 Please note that I primarily designed this datapack to accompany an upcoming modpack of mine which is why I have chosen these mods in particular so some changes in this datapack may not make sense outside of the modpack. 
 
-However no mod is required (aside from Serene Seasons itself) so you can use as many or as little of the mods or datapacks in the above list as you would like!
+However no mod is required (aside from Serene Seasons itself) so you can use as many or as little of the mods or datapacks with integration as you would like!
 
 Thank you for reading! Now get out there and enjoy the seasons!
 
