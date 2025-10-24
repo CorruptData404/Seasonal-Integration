@@ -58,6 +58,10 @@
       "required": false
     },
     {
+      "id": "clifftree:temperate_beach",
+      "required": false
+    },
+    {
       "id": "yungscavebiomes:lost_caves",
       "required": false
     }
