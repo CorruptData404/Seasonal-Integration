@@ -7,22 +7,6 @@ Adding relevant biomes to the "blacklisted biomes" tag.
 Adding relevant food, seeds and/or crops to the various seasonal fertility tags depending on what the crop is and during which seasons I feel it makes sense for them to be able to grow in.
 This datapack also adds biomes from some mods to some Vanilla Minecraft and internal Neoforge tags to ensure they work better with ambience mods such as Dynamic Surroundings as well as mods that add biome variants of mobs such as Variants and Ventures.
 
-The mods/datapacks with integration currently added are:
-
-Atmospheric - By TeamAbnormals
-Autumnity - By TeamAbnormals
-Upgrade Aquatic - By TeamAbnormals
-Neapolitan - By TeamAbnormals
-Berry Good - By TeamAbnormals
-Vanilla Backport - By BlackGear
-Ecologics - By SameDifferent
-River Redux - By Jasmine
-Cliff Under A Tree - By Konci
-Variants and Ventures - By Faboslav
-Serene Seasons Plus - By Gaboouu
-Environmental - By TeamAbnormals
-Yung's Cave Biomes - By YUNGNICKYOUNG
-Snow! Real Magic! - By Snownee
 And more to come in the future or upon request!
 
 NOTE: Requested mod or datapack must be on Neoforge and be on Minecraft Version 1.21.1 or above.
