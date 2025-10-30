@@ -32,6 +32,10 @@
     {
       "id": "environmental:pine_sapling",
       "required": false
+    },
+    {
+      "id": "environmental:white_wisteria_sapling",
+      "required": false
     }
   ]
 }
