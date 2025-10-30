@@ -76,6 +76,10 @@
     {
       "id": "environmental:cattail",
       "required": false
+    },
+    {
+      "id": "environmental:blue_wisteria_sapling",
+      "required": false
     }
   ]
 }
