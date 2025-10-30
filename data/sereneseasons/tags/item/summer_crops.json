@@ -88,6 +88,10 @@
     {
       "id": "yungscavebiomes:prickly_vines",
       "required": false
+    },
+    {
+      "id": "environmental:purple_wisteria_sapling",
+      "required": false
     }
   ]
 }
