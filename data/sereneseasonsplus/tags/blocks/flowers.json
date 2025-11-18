@@ -12,7 +12,112 @@
     {
       "id": "snowrealmagic:snowy_double_plant_upper",
       "required": false
+    },
+    {
+      "id": "environmental:bluebell",
+      "required": false
+    },
+    {
+      "id": "environmental:tasselflower",
+      "required": false
+    },
+    {
+      "id": "environmental:dianthus",
+      "required": false
+    },
+    {
+      "id": "environmental:violet",
+      "required": false
+    },
+    {
+      "id": "environmental:cartwheel",
+      "required": false
+    },
+    {
+      "id": "environmental:red_lotus_flower",
+      "required": false
+    },
+    {
+      "id": "environmental:white_lotus_flower",
+      "required": false
+    },
+    {
+      "id": "environmental:yellow_hibiscus",
+      "required": false
+    },
+    {
+      "id": "environmental:orange_hibiscus",
+      "required": false
+    },
+    {
+      "id": "environmental:red_hibiscus",
+      "required": false
+    },
+    {
+      "id": "environmental:pink_hibiscus",
+      "required": false
+    },
+    {
+      "id": "environmental:magenta_hibiscus",
+      "required": false
+    },
+    {
+      "id": "environmental:purple_hibiscus",
+      "required": false
+    },
+    {
+      "id": "environmental:pink_delphinium",
+      "required": false
+    },
+    {
+      "id": "environmental:purple_delphinium",
+      "required": false
+    },
+    {
+      "id": "environmental:blue_delphinium",
+      "required": false
+    },
+    {
+      "id": "environmental:white_delphinium",
+      "required": false
+    },
+    {
+      "id": "environmental:bird_of_paradise",
+      "required": false
+    },
+    {
+      "id": "environmental:cup_lichen",
+      "required": false
+    },
+    {
+      "id": "buzzier_bees:white_clover",
+      "required": false
+    },
+    {
+      "id": "buzzier_bees:pink_clover",
+      "required": false
+    },
+    {
+      "id": "buzzier_bees:buttercup",
+      "required": false
+    },
+    {
+      "id": "minecraft:wildflowers",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_petals",
+      "required": false
+    },
+    {
+      "id": "autumnity:autumn_crocus",
+      "required": false
+    },
+    {
+      "id": "atmospheric:gilia",
+      "required": false
     }
   ]
 
 }
+
