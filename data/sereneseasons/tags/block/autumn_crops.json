@@ -46,6 +46,10 @@
       "required": false
     },
     {
+      "id": "minecraft:pale_oak_sapling",
+      "required": false
+    },
+    {
       "id": "ecologics:walnut_sapling",
       "required": false
     },
