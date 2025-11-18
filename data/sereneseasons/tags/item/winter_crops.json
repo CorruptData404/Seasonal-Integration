@@ -22,6 +22,10 @@
       "required": false
     },
     {
+      "id": "minecraft:pale_oak_sapling",
+      "required": false
+    },
+    {
       "id": "berry_good:sweet_berry_pips",
       "required": false
     },
