@@ -1,6 +1,9 @@
 {
 	"replace": false,
 	"values": [
-		"minecraft:ice_spikes"
+    	{
+      	"id": "#c:is_icy",
+      	"required": false
+    	}
 	]
 }
