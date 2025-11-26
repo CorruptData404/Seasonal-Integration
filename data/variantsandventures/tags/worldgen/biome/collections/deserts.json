@@ -4,6 +4,14 @@
 		{
 			"id": "#c:is_desert",
 			"required": false
+		},
+		{
+			"id": "clifftree:warm_caves",
+			"required": false
+		},
+		{
+			"id": "yungscavebiomes:lost_caves",
+			"required": false
 		}
 	]
 }
