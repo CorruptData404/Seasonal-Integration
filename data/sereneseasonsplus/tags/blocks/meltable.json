@@ -4,6 +4,11 @@
     {
       "id": "ecologics:thin_ice",
       "required": false
+    },
+    {
+      "id": "yungscavebiomes:ice_sheet",
+      "required": false
     }
   ]
 }
+
