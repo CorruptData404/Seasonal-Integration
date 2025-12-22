@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "#c:is_hot",
+      "required": false
+    },
+    {
+      "id": "#sereneseasons:tropical_biomes",
+      "required": false
+    }
+  ]
+}

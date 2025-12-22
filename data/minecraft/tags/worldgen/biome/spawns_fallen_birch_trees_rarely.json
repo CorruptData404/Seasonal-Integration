@@ -1,0 +1,8 @@
+{
+  "values": [
+    {
+      "id": "clifftree:sparse_forest",
+      "required": false
+    }
+  ]
+}

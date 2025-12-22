@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "#c:is_plains",
+      "required": false
+    },
+    {
+      "id": "#c:is_mushroom",
+      "required": false
+    },
+    {
+      "id": "minecraft:flower_forest",
+      "required": false
+    }
+  ]
+}

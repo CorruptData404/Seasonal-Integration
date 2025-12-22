@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "#c:is_plains",
+      "required": false
+    },
+    {
+      "id": "clifftree:sparse_forest",
+      "required": false
+    }
+  ]
+}

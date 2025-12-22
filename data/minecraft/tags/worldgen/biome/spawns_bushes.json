@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "#c:is_plains",
+      "required": false
+    },
+    {
+      "id": "atmospheric:laurel_forest",
+      "required": false
+    },
+    {
+      "id": "clifftree:sparse_forest",
+      "required": false
+    }
+  ]
+}

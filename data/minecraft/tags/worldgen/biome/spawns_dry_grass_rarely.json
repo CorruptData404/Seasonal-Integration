@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:beach",
+    {
+      "id": "#clifftree:dry_badlands",
+      "required": false
+    }
+  ]
+}
