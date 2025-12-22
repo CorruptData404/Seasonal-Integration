@@ -28,7 +28,12 @@
     {
       "id": "clifftree:glacier_cliff",
       "required": false
+    },
+    {
+      "id": "clifftree:tropical_beach",
+      "required": false
     }
   ]
 
 }
+
