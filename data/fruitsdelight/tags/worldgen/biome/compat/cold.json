@@ -1,0 +1,36 @@
+{
+  "values": [
+    {
+      "id": "clifftree:snowy_old_growth_taiga",
+      "required": false
+    },
+    {
+      "id": "clifftree:tundra",
+      "required": false
+    },
+    {
+      "id": "environmental:pine_barrens",
+      "required": false
+    },
+    {
+      "id": "environmental:snowy_pine_barrens",
+      "required": false
+    },
+    {
+      "id": "environmental:pine_slopes",
+      "required": false
+    },
+    {
+      "id": "environmental:old_growth_pine_barrens",
+      "required": false
+    },
+    {
+      "id": "environmental:snowy_old_growth_pine_barrens",
+      "required": false
+    },
+    {
+      "id": "atmospheric:kousa_jungle",
+      "required": false
+    }
+  ]
+}

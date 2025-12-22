@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "#atmospheric:is_rainforest",
+      "required": false
+    },
+    {
+      "id": "#minecraft:is_jungle",
+      "required": false
+    }
+  ]
+}
