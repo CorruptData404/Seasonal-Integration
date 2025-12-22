@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "#c:is_desert",
+      "required": false
+    },
+    {
+      "id": "#atmospheric:is_dunes",
+      "required": false
+    }
+  ]
+}
