@@ -88,6 +88,10 @@
     {
       "id": "environmental:purple_wisteria_sapling",
       "required": false
+    },
+    {
+      "id": "ecologics:hanging_coconut",
+      "required": false
     }
   ]
 }
