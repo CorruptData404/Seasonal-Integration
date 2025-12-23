@@ -88,6 +88,62 @@
     {
       "id": "environmental:purple_wisteria_sapling",
       "required": false
+    },
+    {
+      "id": "natures_spirit:redwood_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:fir_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:cedar_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:sugi_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:willow_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:cypress_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:olive_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:mahogany_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:avocado_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:ghaf_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:palo_verde_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:joshua_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:coconut_sprout",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:alluaudia",
+      "required": false
     }
   ]
 }
