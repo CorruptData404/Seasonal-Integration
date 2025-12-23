@@ -12,6 +12,10 @@
     {
       "id": "berry_good:glow_berry_pips",
       "required": false
+    },
+    {
+      "id": "upgrade_aquatic:mulberry",
+      "required": false
     }
   ]
 }
