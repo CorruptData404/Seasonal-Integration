@@ -90,6 +90,14 @@
       "required": false
     },
     {
+      "id": "natures_spirit:purple_wisteria_sapling",
+      "required": false
+    },
+    {
+      "id": "natures_spirit:yellow_maple_sapling",
+      "required": false
+    },
+    {
       "id": "natures_spirit:redwood_sapling",
       "required": false
     },
@@ -143,6 +151,26 @@
     },
     {
       "id": "natures_spirit:alluaudia",
+      "required": false
+    },
+    {
+      "id": "enchanted:alder_sapling",
+      "required": false
+    },
+    {
+      "id": "enchanted:hawthorn_sapling",
+      "required": false
+    },
+    {
+      "id": "enchanted:wolfsbane",
+      "required": false
+    },
+    {
+      "id": "enchanted:belladonna",
+      "required": false
+    },
+    {
+      "id": "enchanted:water_artichoke",
       "required": false
     }
   ]

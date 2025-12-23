@@ -8,6 +8,10 @@
     {
       "id": "upgrade_aquatic:river_sapling",
       "required": false
+    },
+    {
+      "id": "enchanted:mandrake",
+      "required": false
     }
   ]
 }
