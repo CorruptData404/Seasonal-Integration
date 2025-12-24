@@ -2,12 +2,9 @@
   "replace": false,
   "values": [
     {
-      "id": "#clifftree:is_desert",
-      "required": false
-    },
-    {
       "id": "clifftree:desert_cliff",
       "required": false
     }
   ]
+
 }
