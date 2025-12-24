@@ -1,5 +1,8 @@
 {
   "values": [
-    "clifftree:bog"
+    {
+      "id": "clifftree:bog",
+      "required": false
+    }
   ]
 }
