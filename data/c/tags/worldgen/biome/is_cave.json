@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {
-      "id": "#clifftree:all_caves",
-      "required": false
-    }
-  ]
-}
