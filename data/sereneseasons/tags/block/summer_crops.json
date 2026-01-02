@@ -130,10 +130,6 @@
       "required": false
     },
     {
-      "id": "natures_spirit:avocado_sapling",
-      "required": false
-    },
-    {
       "id": "natures_spirit:ghaf_sapling",
       "required": false
     },
@@ -151,6 +147,34 @@
     },
     {
       "id": "natures_spirit:alluaudia",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:avocado_sapling",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:avocado_pit",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:fruiting_avocado_leaves",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:corn",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:corn_upper",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:eggplants",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:cucumbers",
       "required": false
     },
     {
