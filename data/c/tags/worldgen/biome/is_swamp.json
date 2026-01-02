@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {
-      "id": "clifftree:bog",
-      "required": false
-    }
-  ]
-}

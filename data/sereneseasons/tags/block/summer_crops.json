@@ -58,6 +58,10 @@
       "required": false
     },
     {
+      "id": "ecologics:hanging_coconut",
+      "required": false
+    },
+    {
       "id": "ecologics:prickly_pear",
       "required": false
     },

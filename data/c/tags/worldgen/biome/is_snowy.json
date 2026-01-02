@@ -2,21 +2,10 @@
   "replace": false,
   "values": [
     {
-      "id": "#clifftree:snowy",
-      "required": false
-    },
-    {
-      "id": "clifftree:glacier_cliff",
-      "required": false
-    },
-    {
       "id": "atmospheric:kousa_jungle",
-      "required": false
-    },
-    {
-      "id": "clifftree:frozen_caves",
       "required": false
     }
   ]
 
 }
+

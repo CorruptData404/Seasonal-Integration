@@ -38,6 +38,10 @@
       "required": false
     },
     {
+      "id": "ecologics:hanging_coconut",
+      "required": false
+    },
+    {
       "id": "neapolitan:mint",
       "required": false
     },

@@ -58,6 +58,10 @@
       "required": false
     },
     {
+      "id": "ecologics:hanging_coconut",
+      "required": false
+    },
+    {
       "id": "neapolitan:adzuki_soil",
       "required": false
     },
@@ -120,6 +124,6 @@
     {
       "id": "enchanted:belladonna",
       "required": false
-    }
+    },
   ]
 }

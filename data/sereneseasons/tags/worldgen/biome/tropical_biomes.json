@@ -62,6 +62,10 @@
       "required": false
     },
     {
+      "id": "clifftree:coniferous_badlands",
+      "required": false
+    },
+    {
       "id": "yungscavebiomes:lost_caves",
       "required": false
     }
